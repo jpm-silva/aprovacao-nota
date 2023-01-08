@@ -1,6 +1,6 @@
 LOCAL lcCurDir AS String
 
-lcCurDir = "E:\AprovacaoNota\"
+lcCurDir = "E:\Git\aprovacao-nota\"
 SET DEFAULT TO (lcCurDir)
 SET PATH TO (lcCurDir)
 SET PATH TO	(lcCurDir + "\classes") ADDITIVE
